@@ -10,3 +10,6 @@ Other way is you can directly use IDE, i. e. WebStorm, to clone the project. It 
 
 **3**
 some drastic changes
+
+**4**
+here other some of developing changes
